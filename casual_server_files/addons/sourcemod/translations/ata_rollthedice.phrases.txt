@@ -1,0 +1,207 @@
+"Phrases"
+{
+	"rtd_wait"
+	{
+		"#format"		"{1:d}"
+		"en"				"You can only throw {1} dices per round!"
+		"de"				"Du kannst nur {1} mal pro Runde würfeln!"
+		"sv"				"Du kan bara kasta {1} tärningar per runda!"
+		"es"				"Solo puedes lanzar los dados {1} vez/veces por ronda!"
+	}
+	"rtd_wait_map"
+	{
+		"#format"		"{1:d}"
+		"en"				"You can only throw {1} dices per map!"
+		"de"				"Du kannst nur {1} mal pro Map würfeln!"
+		"sv"				"Du kan bara kasta {1} tärning per karta!"
+		"es"				"Solo puedes lanzar los dados {1} vez/veces durante el mapa!"
+	}
+	"rtd_dices_left_per_map"
+	{
+		"#format"		"{1:d}"
+		"en"				"You have {1} dices left for this map!"
+		"de"				"Du hast noch {1} Würfel übrig für diese Map!"
+		"sv"				"Du har {1} tärningar kvar att kasta på denna karta!"
+		"es"				"Dispones de {1} lanzamientos del dado durante este mapa!"
+	}
+	"rtd_announce"
+	{
+		"#format"		"{1:s},{2:s}"
+//		"en"				"{WHITE}Type {BLUE}!{1}{WHITE} or {BLUE}!{2}{WHITE} to roll the dice for a nice surprise!"
+//		"de"				"{WHITE}Schreibe {BLUE}!{1}{WHITE} oder {BLUE}!{2}{WHITE} für eine Überraschung!"
+//		"en"				"\x011Type \x022!{1}\x033 or \x044!{2}\x055 to roll the dice for a nice surprise!"
+//		"de"				"\x011Schreibe \x022!{1}\x033 oder \x044!{2}\x055 für eine Überraschung!"
+		"en"				"Type !{1} or !{2} to roll the dice for a nice surprise!"
+		"de"				"Schreibe !{1} oder !{2} für eine Überraschung!"
+		"sv"				"Skriv !{1} eller !{2} för en överraskning!"
+		"es"				"Escribe !{1} o !{2} para lanzar los dados haber que te toca!"
+	}
+	"rtd_health_decrease"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... looses {3} HP!"
+		"de"				"{1} würfelt eine {2} und... verliert {3} HP!"
+		"sv"				"{1} kastar tärningen... får {2} och... förlorar {3} HP!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... pierde {3} HP!"
+	}
+	"rtd_health_increase"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets {3} HP!"
+		"de"				"{1} würfelt eine {2} und... bekommt {3} HP!"
+		"sv"				"{1} kastar tärningen... får {2} och... får {3} HP!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... obtiene {3} HP!"
+	}
+	"rtd_money_increase"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... wins ${3}!"
+		"de"				"{1} würfelt eine {2} und... gewinnt ${3}!"
+		"sv"				"{1} kastar tärningen... får {2} och... vinner ${3}!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... gana ${3}!"
+	}
+	"rtd_money_decrease"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... looses ${3}!"
+		"de"				"{1} würfelt eine {2} und... verliert ${3}!"
+		"sv"				"{1} kastar tärningen... får {2} och... förlorar ${3}!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... pierde ${3}!"
+	}
+	"rtd_give_item"
+	{
+		"#format"		"{1:N},{2:d},{3:s}"
+		"en"				"{1} rolls the dice... diced a {2} and... wins an item: {3}!"
+		"de"				"{1} würfelt eine {2} und... bekommt: {3}!"
+		"sv"				"{1} kastar tärningen... får {2} och... får: {3}!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... gana un objeto: {3}!"
+	}
+	"rtd_take_item"
+	{	
+		"#format"		"{1:N},{2:d},{3:s}"
+		"en"				"{1} rolls the dice... diced a {2} and... looses his {3}!"
+		"de"				"{1} würfelt eine {2} und... verliert: {3}!"
+		"sv"				"{1} kastar tärningen... får {2} och... förlorar sin {3}"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... pierde su {3}!"
+	}
+	"rtd_nothing_to_loose"
+	{	
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... has nothing to loose..."
+		"de"				"{1} würfelt eine {2} und... hat nichts mehr zu verlieren..."
+		"sv"				"{1} kastar tärningen... får {2} och... har inget att förlora..."
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... no tiene nada que perder..."
+	}
+	"rtd_chicken"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gack gack gack!"
+		"de"				"{1} würfelt eine {2} und... gack gack gack!"
+		"sv"				"{1} kastar tärningen... får {2} och... gack gack gack!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... gack gack gack!"
+	}
+	"rtd_invisibility"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... becomes invisible!"
+		"de"				"{1} würfelt eine {2} und... wird unsichtbar!"
+		"sv"				"{1} kastar tärningen... får {2} och... blir osynlig!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se vuelve invisible!"
+	}
+	"rtd_glow"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... becomes an easy target!"
+		"de"				"{1} würfelt eine {2} und... wird ein leichtes Opfer!"
+		"sv"				"{1} kastar tärningen... får {2} och... blir väldigt lätt att se!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se convierte en un blanco facil!"
+	}
+	"rtd_faster"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets some cocaine!"
+		"de"				"{1} würfelt eine {2} und... zieht ne Line!"
+		"sv"				"{1} kastar tärningen... får {2} och... får smaka på lite kokain!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... consigue un poco de cocaina!"
+	}
+	"rtd_slower"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets some valium!"
+		"de"				"{1} würfelt eine {2} und... bekommt ne Packung Valium!"
+		"sv"				"{1} kastar tärningen... får {2} och... får lite valium!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... hace algunos valium!"
+	}
+	"rtd_vampiric"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets a vampire bite!"
+		"de"				"{1} würfelt eine {2} und... bekommt einen Vampirbiss!"
+		"sv"				"{1} kastar tärningen... får {2} och... får vampyrbett!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... recibe una mordedura de vampiro!"
+	}
+	"rtd_mirrordamage"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2}. Do unto others as you would have others do unto you!"
+		"de"				"{1} würfelt eine {2}. Was du nicht willst, dass man dir tu, das füge keinem anderen zu!"
+		"sv"				"{1} kastar tärningen... får {2} och... blir behandlad så som han behandlar andra!"
+		"es"				"{1} tira los dados... ha sacado un {2}. Haz a los demas lo que te gustaria que te hicieran a ti!"
+	}
+	"rtd_sunglasses"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets sunglasses!"
+		"de"				"{1} würfelt eine {2} und... bekommt eine Sonnenbrille!"
+		"sv"				"{1} kastar tärningen... får {2} och... får solglasögon!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... obtiene unas gafas de sol!"
+	}
+	"rtd_drugs"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... eats some strange mushrooms!"
+		"de"				"{1} würfelt eine {2} und... isst seltsame Pilze!"
+		"sv"				"{1} kastar tärningen... får {2} och... äter några okända svampar!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se come unos hongos raros!"
+	}
+	"rtd_berserker"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... becomes a berserker!"
+		"de"				"{1} würfelt eine {2} und... wird zum Berserker!"
+		"sv"				"{1} kastar tärningen... får {2} och... blir en bärsärk!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se convierte en un berserker!"
+	}
+	"rtd_infinite_ammo"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets infinite ammo!"
+		"de"				"{1} würfelt eine {2} und... bekommt ein riesen Magazin!"
+		"sv"				"{1} kastar tärningen... får {2} och... får obegränsad ammunition!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... obtiene municion infinita!"
+	}
+	"rtd_weapon_jam"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets jammed!"
+		"de"				"{1} würfelt eine {2} und... hat Ladehemmungen!"
+		"sv"				"{1} kastar tärningen... får {2} och... blir jammad!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se atasca!"
+	}
+	"rtd_high_jump"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... gets froggy legs!"
+		"de"				"{1} würfelt eine {2} und... hat nun Froschschenkel!"
+		"sv"				"{1} kastar tärningen... får {2} och... får ben som känns som spagetti!"
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... se le congelan las piernas!"
+	}
+	"rtd_nothing"
+	{
+		"#format"		"{1:N},{2:d}"
+		"en"				"{1} rolls the dice... diced a {2} and... nothing happens..."
+		"de"				"{1} würfelt eine {2} und... nichts passiert..."
+		"sv"				"{1} kastar tärningen... får {2} och... inget händer..."
+		"es"				"{1} tira los dados... ha sacado un {2} por lo tanto... no pasa nada..."
+	}
+}
