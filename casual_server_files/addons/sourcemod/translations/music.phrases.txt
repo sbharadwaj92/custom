@@ -45,7 +45,7 @@
 		"en"		"[Music] {LIGHTGREEN} You Can Listen to Music: {YELLOW}Austin Wintory | Desert Fire {LIGHTGREEN}in Game Now!"
 	}
 
-	"Choose LNDE"
+	"Choose LNOE"
 	{
 		"en"		"[Music] {LIGHTGREEN} You Can Listen to Music: {DARKBLUE}Sasha | Last Night On Earth {LIGHTGREEN}in Game Now!"
 	}
@@ -83,7 +83,7 @@
 		"en"		"Robert Allaire | Insurgency"
 	}
 
-	"Music Menu ADB"
+	"Music Menu AD8"
 	{
 		"en"		"Sean Murray | A*D*8"
 	}
@@ -103,7 +103,7 @@
 		"en"		"Austin Wintory | Desert Fire"
 	}
 
-	"Music Menu LNDE"
+	"Music Menu LNOE"
 	{
 		"en"		"Sasha | Last Night On Earth"
 	}
